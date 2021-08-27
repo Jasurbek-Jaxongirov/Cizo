@@ -1,0 +1,183 @@
+{
+    "quizes": [{
+            "id": "11111111",
+            "quiz_name": " Biologi Quiz IX",
+            "created_at": "",
+            "author": "Private User",
+            "code": "GH79HG",
+            "quiz": [{
+                    "question": "1. Which organelle is found in a plant cell and NOT an animal cell?",
+                    "answers": [{
+                        "answer": "Vacuole",
+                        "is_true": false
+                    }, {
+                        "answer": "Cell Wall",
+                        "is_true": true
+                    }, {
+                        "answer": "Lyosome",
+                        "is_true": false
+                    }, {
+                        "answer": "Cell Membrane",
+                        "is_true": false
+                    }]
+                },
+                {
+                    "question": "2. Botany is the study of what life form?",
+                    "answers": [{
+                        "answer": "Plants",
+                        "is_true": true
+                    }, {
+                        "answer": "Skin",
+                        "is_true": false
+                    }, {
+                        "answer": "Tree",
+                        "is_true": false
+                    }, {
+                        "answer": "The Earth",
+                        "is_true": false
+                    }]
+                },
+                {
+                    "question": "3. The term ‘renal’ refers to which organs?",
+                    "answers": [{
+                        "answer": "Inflammatory bowel disease",
+                        "is_true": false
+                    }, {
+                        "answer": "Plant cells",
+                        "is_true": false
+                    }, {
+                        "answer": "Fibre",
+                        "is_true": false
+                    }, {
+                        "answer": "Kidneys",
+                        "is_true": true
+                    }]
+                },
+                {
+                    "question": "4. How many neck vertebrae do giraffes have, compared to a human’s?",
+                    "answers": [{
+                        "answer": "Five",
+                        "is_true": false
+                    }, {
+                        "answer": "Foure",
+                        "is_true": false
+                    }, {
+                        "answer": "Eight",
+                        "is_true": false
+                    }, {
+                        "answer": "Seven",
+                        "is_true": true
+                    }]
+                },
+                {
+                    "question": "5. What part of the human body is the Mandible?",
+                    "answers": [{
+                        "answer": "Lower Jawbone",
+                        "is_true": true
+                    }, {
+                        "answer": "Leprosy",
+                        "is_true": false
+                    }, {
+                        "answer": "Double helix",
+                        "is_true": false
+                    }, {
+                        "answer": "Seven",
+                        "is_true": false
+                    }]
+                }
+
+            ]
+
+        },
+        {
+            "id": "222222222",
+            "quiz_name": " Mathematics XI-2",
+            "created_at": "",
+            "author": "Private User",
+            "code": "THU76X",
+            "quiz": [{
+                    "question": "1. Which number is equivalent to 3^(4)÷3^(2)",
+                    "answers": [{
+                        "answer": "10",
+                        "is_true": false
+                    }, {
+                        "answer": "9",
+                        "is_true": true
+                    }, {
+                        "answer": "7",
+                        "is_true": false
+                    }, {
+                        "answer": "5",
+                        "is_true": false
+                    }]
+                },
+                {
+                    "question": "2. There are 49 dogs signed up for a dog show. How many small dogs have signed up to compete?",
+                    "answers": [{
+                        "answer": "42.5",
+                        "is_true": true
+                    }, {
+                        "answer": "50",
+                        "is_true": false
+                    }, {
+                        "answer": "23",
+                        "is_true": false
+                    }, {
+                        "answer": "42",
+                        "is_true": false
+                    }]
+                },
+                {
+                    "question": "3. I am an odd number. Take away one letter and I become even. What number am I?",
+                    "answers": [{
+                        "answer": "Seven",
+                        "is_true": true
+                    }, {
+                        "answer": "Five",
+                        "is_true": false
+                    }, {
+                        "answer": "Eight",
+                        "is_true": false
+                    }, {
+                        "answer": "Four",
+                        "is_true": false
+                    }]
+                },
+                {
+                    "question": "4. HSally is 54 years old and her mother is 80, how many years ago was Sally’s mother times her age?",
+                    "answers": [{
+                        "answer": "33",
+                        "is_true": false
+                    }, {
+                        "answer": "56",
+                        "is_true": false
+                    }, {
+                        "answer": "49",
+                        "is_true": true
+                    }, {
+                        "answer": "53",
+                        "is_true": false
+                    }]
+                },
+                {
+                    "question": "5. How to get a number 100 by using four sevens (7’s) and a one (1)?",
+                    "answers": [{
+                        "answer": "100",
+                        "is_true": true
+                    }, {
+                        "answer": "80",
+                        "is_true": false
+                    }, {
+                        "answer": "75",
+                        "is_true": false
+                    }, {
+                        "answer": "90",
+                        "is_true": false
+                    }]
+                }
+
+            ]
+
+        }
+    ]
+}
